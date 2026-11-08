@@ -1,1 +1,4 @@
 ubah setting3
+
+git config --global user.email "irvancakra100@gmail.com"
+ git config --global user.name "irvancakra100"
